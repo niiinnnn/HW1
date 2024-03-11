@@ -20,6 +20,9 @@ let username = "მარიამი";
 if (username = "მარიამი") {
     console.log("true")
 }
+else{
+    console.log("false");
+}
 
 let result2 = username= "მარიამი"? "true":"false"
 console.log(result2);
